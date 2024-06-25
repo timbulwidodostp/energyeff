@@ -1,5 +1,4 @@
-d 'DEA': Data envelopment analysis
+d 'energyeff': Energy Efficiency Index (EEI) Use energyeff With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f energyeff.ado
+f energyeff.sthlp
