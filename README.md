@@ -1,6 +1,8 @@
 # energyeff
 Energy Efficiency Index (EEI) Use energyeff With STATA 18
 
+https://www.youtube.com/watch?v=iL2uidFLBWg
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
